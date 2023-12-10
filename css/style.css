@@ -100,3 +100,43 @@ line-height: normal;
     font-weight: 400;
     line-height: normal;
 }
+
+
+/* footer */
+
+footer {
+
+    background-color: #758BFD;
+    padding: 75px 98px;
+     display: flex; 
+     justify-content: space-between;
+}
+
+
+p {
+color: #FFF;
+font-family: Century Gothic;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 17px; 
+letter-spacing: 0.2px;
+}
+
+.icons_container{
+display: flex;
+column-gap: 20px;
+}
+
+
+.icons{
+margin-top: 22px;
+color: #FFFFFF;
+font-size: 22px;
+}
+
+
+.paying_container {
+    display: flex;
+    column-gap: 11px;
+}
