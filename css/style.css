@@ -60,7 +60,7 @@ section {
 
 h2{
 color: #27187F;
-font-family: Ubuntu;
+font-family: 'Ubuntu', sans-serif;
 font-size: 32px;
 font-style: normal;
 font-weight: 700;
@@ -94,7 +94,7 @@ line-height: normal;
 .text{
     margin-top: 33px;
     color: #133B3A;
-    font-family: Ubuntu;
+    font-family: 'Ubuntu', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -108,8 +108,8 @@ footer {
 
     background-color: #758BFD;
     padding: 75px 98px;
-     display: flex; 
-     justify-content: space-between;
+    display: flex; 
+    justify-content: space-between;
 }
 
 
